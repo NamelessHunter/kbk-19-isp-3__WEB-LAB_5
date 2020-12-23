@@ -1,0 +1,32 @@
+.window{
+	margin-top: 40px;
+	margin-left: 35%;
+	margin-right: 35%;
+	padding: 10px;
+	border: 2px solid #03393c;
+}
+
+.group{
+	padding-top: 5px;
+}
+
+.inputStyle{
+	margin-right: 10px;
+	width: 100px;
+}
+.result{
+	display: inline-block;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.resultText{
+	background-color: black;
+	color: white;
+}
+
+.center {
+	margin-top: 40px;
+	margin-left: 35%;
+	margin-right: 35%;
+   }
